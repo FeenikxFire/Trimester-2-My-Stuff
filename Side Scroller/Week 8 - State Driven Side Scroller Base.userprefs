@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player.cs">
+    <Files>
+      <File FileName="..\..\Documents\GitHub\GAM111.1\Explosive Pinball\Assets\Scripts\Game Objects\DropTarget.cs" Line="1" Column="1" />
+      <File FileName="..\..\Documents\GitHub\GAM111.1\Explosive Pinball\Assets\Scripts\Ball Related\BallVelocity.cs" Line="1" Column="1" />
+      <File FileName="..\..\Documents\GitHub\GAM111.1\Explosive Pinball\Assets\Scripts\Game Objects\Kicker.cs" Line="14" Column="6" />
+      <File FileName="Assets\Player.cs" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
